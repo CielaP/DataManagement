@@ -1,2 +1,7 @@
 This is a sample text.
+<<<<<<< HEAD
 sample sample sample sample
+=======
+
+This part is update.
+>>>>>>> 03b5672dbe49b47e0962118f1f314367e308f2c3
