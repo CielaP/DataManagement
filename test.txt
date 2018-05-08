@@ -5,3 +5,5 @@ made a mistake
 In this section, I write a literature review.
 
 In this section, I write an economic model
+
+y=Ak^a
